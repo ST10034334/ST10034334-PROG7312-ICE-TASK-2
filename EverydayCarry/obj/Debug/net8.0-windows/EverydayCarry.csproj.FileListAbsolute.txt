@@ -1,0 +1,17 @@
+C:\Users\Rachael\Documents\BCAD YEAR 3\PROG7312 YEAR 3\CLASS ACTIVITIES\LINKED LIST DATA STRUCTURE\SINGLY LINKED LIST\EverydayCarry\bin\Debug\net8.0-windows\EverydayCarry.exe
+C:\Users\Rachael\Documents\BCAD YEAR 3\PROG7312 YEAR 3\CLASS ACTIVITIES\LINKED LIST DATA STRUCTURE\SINGLY LINKED LIST\EverydayCarry\bin\Debug\net8.0-windows\EverydayCarry.deps.json
+C:\Users\Rachael\Documents\BCAD YEAR 3\PROG7312 YEAR 3\CLASS ACTIVITIES\LINKED LIST DATA STRUCTURE\SINGLY LINKED LIST\EverydayCarry\bin\Debug\net8.0-windows\EverydayCarry.runtimeconfig.json
+C:\Users\Rachael\Documents\BCAD YEAR 3\PROG7312 YEAR 3\CLASS ACTIVITIES\LINKED LIST DATA STRUCTURE\SINGLY LINKED LIST\EverydayCarry\bin\Debug\net8.0-windows\EverydayCarry.dll
+C:\Users\Rachael\Documents\BCAD YEAR 3\PROG7312 YEAR 3\CLASS ACTIVITIES\LINKED LIST DATA STRUCTURE\SINGLY LINKED LIST\EverydayCarry\bin\Debug\net8.0-windows\EverydayCarry.pdb
+C:\Users\Rachael\Documents\BCAD YEAR 3\PROG7312 YEAR 3\CLASS ACTIVITIES\LINKED LIST DATA STRUCTURE\SINGLY LINKED LIST\EverydayCarry\obj\Debug\net8.0-windows\EverydayCarry.csproj.GenerateResource.cache
+C:\Users\Rachael\Documents\BCAD YEAR 3\PROG7312 YEAR 3\CLASS ACTIVITIES\LINKED LIST DATA STRUCTURE\SINGLY LINKED LIST\EverydayCarry\obj\Debug\net8.0-windows\EverydayCarry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rachael\Documents\BCAD YEAR 3\PROG7312 YEAR 3\CLASS ACTIVITIES\LINKED LIST DATA STRUCTURE\SINGLY LINKED LIST\EverydayCarry\obj\Debug\net8.0-windows\EverydayCarry.AssemblyInfoInputs.cache
+C:\Users\Rachael\Documents\BCAD YEAR 3\PROG7312 YEAR 3\CLASS ACTIVITIES\LINKED LIST DATA STRUCTURE\SINGLY LINKED LIST\EverydayCarry\obj\Debug\net8.0-windows\EverydayCarry.AssemblyInfo.cs
+C:\Users\Rachael\Documents\BCAD YEAR 3\PROG7312 YEAR 3\CLASS ACTIVITIES\LINKED LIST DATA STRUCTURE\SINGLY LINKED LIST\EverydayCarry\obj\Debug\net8.0-windows\EverydayCarry.csproj.CoreCompileInputs.cache
+C:\Users\Rachael\Documents\BCAD YEAR 3\PROG7312 YEAR 3\CLASS ACTIVITIES\LINKED LIST DATA STRUCTURE\SINGLY LINKED LIST\EverydayCarry\obj\Debug\net8.0-windows\EverydayCarry.dll
+C:\Users\Rachael\Documents\BCAD YEAR 3\PROG7312 YEAR 3\CLASS ACTIVITIES\LINKED LIST DATA STRUCTURE\SINGLY LINKED LIST\EverydayCarry\obj\Debug\net8.0-windows\refint\EverydayCarry.dll
+C:\Users\Rachael\Documents\BCAD YEAR 3\PROG7312 YEAR 3\CLASS ACTIVITIES\LINKED LIST DATA STRUCTURE\SINGLY LINKED LIST\EverydayCarry\obj\Debug\net8.0-windows\EverydayCarry.pdb
+C:\Users\Rachael\Documents\BCAD YEAR 3\PROG7312 YEAR 3\CLASS ACTIVITIES\LINKED LIST DATA STRUCTURE\SINGLY LINKED LIST\EverydayCarry\obj\Debug\net8.0-windows\EverydayCarry.genruntimeconfig.cache
+C:\Users\Rachael\Documents\BCAD YEAR 3\PROG7312 YEAR 3\CLASS ACTIVITIES\LINKED LIST DATA STRUCTURE\SINGLY LINKED LIST\EverydayCarry\obj\Debug\net8.0-windows\ref\EverydayCarry.dll
+C:\Users\Rachael\Documents\BCAD YEAR 3\PROG7312 YEAR 3\CLASS ACTIVITIES\LINKED LIST DATA STRUCTURE\SINGLY LINKED LIST\EverydayCarry\bin\Debug\net8.0-windows\images\everyday_gadgets_background.jpg
+C:\Users\Rachael\Documents\BCAD YEAR 3\PROG7312 YEAR 3\CLASS ACTIVITIES\LINKED LIST DATA STRUCTURE\SINGLY LINKED LIST\EverydayCarry\obj\Debug\net8.0-windows\EverydayCarry.EVDGadgetForm.resources
